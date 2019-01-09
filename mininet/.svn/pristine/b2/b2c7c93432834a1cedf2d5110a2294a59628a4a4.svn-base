@@ -1,0 +1,6 @@
+
+ TCP dst = 42101 | TCP SRC = 55468 
+ /n---------------------------------------------------
+pkt{in="24", actset=[], pktout="0", ogrp="any", oprt="any", buffer="none", std={proto={eth,ipv4,tcp}, match=oxm{in_port="24", metadata="0x0", eth_dst="00:00:00:00:00:14", eth_src="00:00:00:00:00:67", eth_type="0x800", ip_dscp="63", ip_ecn="0", ipv4_src="10.0.0.67", ipv4_dst="10.0.0.14", ip_proto="6", tcp_src="44248", tcp_dst="30116", tunnel_id="0x0"}"}}
+ TCP dst = 42101 | TCP SRC = 55468 
+ /n---------------------------------------------------

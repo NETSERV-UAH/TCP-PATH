@@ -1,0 +1,15 @@
+
+ TCP dst = 32375 | TCP SRC = 44768 
+ /n---------------------------------------------------
+pkt{in="22", actset=[], pktout="0", ogrp="any", oprt="any", buffer="none", std={proto={eth,ipv4,tcp}, match=oxm{in_port="22", metadata="0x0", eth_dst="00:00:00:00:00:19", eth_src="00:00:00:00:00:63", eth_type="0x800", ip_dscp="63", ip_ecn="0", ipv4_src="10.0.0.63", ipv4_dst="10.0.0.19", ip_proto="6", tcp_src="33668", tcp_dst="30592", tunnel_id="0x0"}"}}
+ TCP dst = 32887 | TCP SRC = 33923 
+ /n---------------------------------------------------
+pkt{in="21", actset=[], pktout="0", ogrp="any", oprt="any", buffer="none", std={proto={eth,ipv4,tcp}, match=oxm{in_port="21", metadata="0x0", eth_dst="00:00:00:00:00:01", eth_src="00:00:00:00:00:71", eth_type="0x800", ip_dscp="63", ip_ecn="0", ipv4_src="10.0.0.71", ipv4_dst="10.0.0.1", ip_proto="6", tcp_src="47678", tcp_dst="30598", tunnel_id="0x0"}"}}
+ TCP dst = 34423 | TCP SRC = 16058 
+ /n---------------------------------------------------
+pkt{in="21", actset=[], pktout="0", ogrp="any", oprt="any", buffer="none", std={proto={eth,ipv4,tcp}, match=oxm{in_port="21", metadata="0x0", eth_dst="00:00:00:00:00:17", eth_src="00:00:00:00:00:73", eth_type="0x800", ip_dscp="63", ip_ecn="0", ipv4_src="10.0.0.73", ipv4_dst="10.0.0.17", ip_proto="6", tcp_src="60134", tcp_dst="30591", tunnel_id="0x0"}"}}
+ TCP dst = 32631 | TCP SRC = 59114 
+ /n---------------------------------------------------
+pkt{in="24", actset=[], pktout="0", ogrp="any", oprt="any", buffer="none", std={proto={eth,ipv4,tcp}, match=oxm{in_port="24", metadata="0x0", eth_dst="00:00:00:00:00:10", eth_src="00:00:00:00:00:79", eth_type="0x800", ip_dscp="63", ip_ecn="0", ipv4_src="10.0.0.79", ipv4_dst="10.0.0.10", ip_proto="6", tcp_src="53236", tcp_dst="30593", tunnel_id="0x0"}"}}
+ TCP dst = 33143 | TCP SRC = 62671 
+ /n---------------------------------------------------

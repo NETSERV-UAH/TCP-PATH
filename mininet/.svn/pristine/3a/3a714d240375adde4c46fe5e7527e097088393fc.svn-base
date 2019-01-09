@@ -1,0 +1,759 @@
+Generamos las matrices
+Matriz 1
+4  2  1  0  3  
+Matriz 2
+0  3  1  2  4  
+Matriz 3
+4  1  2  0  3  
+Matriz 4
+4  1  2  0  3  
+Matriz 5
+3  2  0  1  4  
+Matriz 6
+0  4  2  3  1  
+Matriz 7
+3  4  0  1  2  
+Matriz 8
+2  1  0  4  3  
+Matriz 9
+4  2  1  3  0  
+Matriz 10
+0  3  2  4  1  
+Matriz 11
+1  3  4  2  0  
+Matriz 12
+0  1  4  3  2  
+Matriz 13
+2  4  1  3  0  
+Matriz 14
+3  4  0  1  2  
+Matriz 15
+1  2  4  0  3  
+Matriz 16
+0  3  1  4  2  
+Generamos las matrices
+Matriz 1
+1  3  4  2  0  
+Matriz 2
+1  4  3  0  2  
+Matriz 3
+1  4  2  3  0  
+Matriz 4
+0  4  2  1  3  
+Matriz 5
+2  3  1  0  4  
+Matriz 6
+4  0  3  1  2  
+Matriz 7
+2  3  0  1  4  
+Matriz 8
+1  0  3  4  2  
+Matriz 9
+2  0  3  1  4  
+Matriz 10
+0  4  1  3  2  
+Matriz 11
+0  1  3  4  2  
+Matriz 12
+3  1  2  0  4  
+Matriz 13
+0  3  2  4  1  
+Matriz 14
+4  3  2  1  0  
+Matriz 15
+1  4  2  0  3  
+Matriz 16
+4  1  0  2  3  
+Generamos las matrices
+Matriz 1
+1  4  0  2  3  
+Matriz 2
+3  2  4  0  1  
+Matriz 3
+3  0  4  1  2  
+Matriz 4
+3  4  0  2  1  
+Matriz 5
+4  3  2  1  0  
+Matriz 6
+3  2  0  1  4  
+Matriz 7
+0  4  2  3  1  
+Matriz 8
+1  2  4  3  0  
+Matriz 9
+3  0  2  4  1  
+Matriz 10
+0  2  3  1  4  
+Matriz 11
+2  4  0  1  3  
+Matriz 12
+2  3  0  4  1  
+Matriz 13
+3  4  0  1  2  
+Matriz 14
+3  4  0  1  2  
+Matriz 15
+3  1  4  2  0  
+Matriz 16
+4  0  2  1  3  
+Generamos las matrices
+Matriz 1
+0  3  4  1  2  
+Matriz 2
+2  0  4  3  1  
+Matriz 3
+4  1  2  0  3  
+Matriz 4
+0  2  4  1  3  
+Matriz 5
+0  1  2  3  4  
+Matriz 6
+2  0  1  3  4  
+Matriz 7
+0  1  4  3  2  
+Matriz 8
+4  3  0  1  2  
+Matriz 9
+0  4  2  3  1  
+Matriz 10
+1  3  4  0  2  
+Matriz 11
+3  4  0  2  1  
+Matriz 12
+4  2  0  1  3  
+Matriz 13
+1  0  3  2  4  
+Matriz 14
+2  0  1  3  4  
+Matriz 15
+4  2  0  3  1  
+Matriz 16
+0  1  4  3  2  
+Generamos las matrices
+Matriz 1
+0  2  1  3  4  
+Matriz 2
+2  1  4  3  0  
+Matriz 3
+2  0  1  3  4  
+Matriz 4
+3  1  2  4  0  
+Matriz 5
+3  0  1  4  2  
+Matriz 6
+0  4  2  1  3  
+Matriz 7
+4  0  3  2  1  
+Matriz 8
+1  3  2  4  0  
+Matriz 9
+2  0  4  3  1  
+Matriz 10
+4  2  1  0  3  
+Matriz 11
+1  3  2  4  0  
+Matriz 12
+4  3  1  2  0  
+Matriz 13
+0  2  1  3  4  
+Matriz 14
+2  3  4  0  1  
+Matriz 15
+1  4  2  0  3  
+Matriz 16
+3  1  2  4  0  
+Generamos las matrices
+Matriz 1
+4  3  1  0  2  
+Matriz 2
+1  3  0  2  4  
+Matriz 3
+4  2  3  0  1  
+Matriz 4
+2  4  3  1  0  
+Matriz 5
+4  1  0  2  3  
+Matriz 6
+3  4  1  2  0  
+Matriz 7
+4  2  1  0  3  
+Matriz 8
+2  1  3  0  4  
+Matriz 9
+1  2  0  3  4  
+Matriz 10
+3  2  0  4  1  
+Matriz 11
+4  1  3  2  0  
+Matriz 12
+4  3  0  1  2  
+Matriz 13
+0  4  2  1  3  
+Matriz 14
+3  0  1  2  4  
+Matriz 15
+0  3  1  4  2  
+Matriz 16
+1  0  4  2  3  
+Generamos las matrices
+Matriz 1
+0  3  4  2  1  
+Matriz 2
+2  0  4  1  3  
+Matriz 3
+1  2  0  3  4  
+Matriz 4
+0  4  3  1  2  
+Matriz 5
+2  1  0  3  4  
+Matriz 6
+0  1  3  4  2  
+Matriz 7
+0  1  2  4  3  
+Matriz 8
+1  3  4  0  2  
+Matriz 9
+3  1  4  0  2  
+Matriz 10
+4  1  2  0  3  
+Matriz 11
+1  0  4  2  3  
+Matriz 12
+4  3  0  2  1  
+Matriz 13
+3  4  1  0  2  
+Matriz 14
+0  1  2  3  4  
+Matriz 15
+3  2  4  1  0  
+Matriz 16
+0  2  1  4  3  
+Generamos las matrices
+Matriz 1
+3  0  2  4  1  
+Matriz 2
+4  0  2  3  1  
+Matriz 3
+1  3  2  0  4  
+Matriz 4
+0  3  1  2  4  
+Matriz 5
+0  1  4  2  3  
+Matriz 6
+3  1  0  4  2  
+Matriz 7
+0  2  3  1  4  
+Matriz 8
+3  1  4  0  2  
+Matriz 9
+4  3  0  2  1  
+Matriz 10
+0  4  3  2  1  
+Matriz 11
+4  3  2  1  0  
+Matriz 12
+2  4  0  1  3  
+Matriz 13
+3  1  0  4  2  
+Matriz 14
+2  4  0  1  3  
+Matriz 15
+4  1  0  2  3  
+Matriz 16
+3  1  0  4  2  
+Generamos las matrices
+Matriz 1
+0  2  3  1  4  
+Matriz 2
+2  3  0  4  1  
+Matriz 3
+4  2  1  0  3  
+Matriz 4
+2  4  0  3  1  
+Matriz 5
+0  4  2  1  3  
+Matriz 6
+0  3  1  2  4  
+Matriz 7
+3  4  0  2  1  
+Matriz 8
+3  1  0  2  4  
+Matriz 9
+1  0  3  2  4  
+Matriz 10
+2  3  0  4  1  
+Matriz 11
+3  4  2  1  0  
+Matriz 12
+3  4  2  1  0  
+Matriz 13
+4  0  3  2  1  
+Matriz 14
+1  0  3  2  4  
+Matriz 15
+3  0  4  2  1  
+Matriz 16
+0  1  3  2  4  
+Generamos las matrices
+Matriz 1
+2  1  0  3  4  
+Matriz 2
+3  4  0  2  1  
+Matriz 3
+3  1  0  2  4  
+Matriz 4
+4  0  3  2  1  
+Matriz 5
+3  2  0  4  1  
+Matriz 6
+2  0  1  4  3  
+Matriz 7
+2  1  4  3  0  
+Matriz 8
+1  4  3  2  0  
+Matriz 9
+1  2  3  4  0  
+Matriz 10
+0  4  2  1  3  
+Matriz 11
+4  1  3  0  2  
+Matriz 12
+2  4  1  3  0  
+Matriz 13
+2  1  4  0  3  
+Matriz 14
+2  4  0  3  1  
+Matriz 15
+3  1  0  4  2  
+Matriz 16
+3  0  1  4  2  
+Generamos las matrices
+Matriz 1
+0  4  1  3  2  
+Matriz 2
+2  3  4  1  0  
+Matriz 3
+3  1  0  4  2  
+Matriz 4
+2  3  0  4  1  
+Matriz 5
+3  2  0  1  4  
+Matriz 6
+1  3  4  0  2  
+Matriz 7
+2  1  0  4  3  
+Matriz 8
+0  3  1  4  2  
+Matriz 9
+3  4  2  1  0  
+Matriz 10
+2  3  0  1  4  
+Matriz 11
+4  3  2  1  0  
+Matriz 12
+0  3  1  4  2  
+Matriz 13
+3  2  1  0  4  
+Matriz 14
+3  1  4  2  0  
+Matriz 15
+1  2  4  3  0  
+Matriz 16
+0  4  2  1  3  
+Generamos las matrices
+Matriz 1
+4  0  2  1  3  
+Matriz 2
+3  0  1  2  4  
+Matriz 3
+2  4  0  3  1  
+Matriz 4
+3  1  2  4  0  
+Matriz 5
+1  2  3  0  4  
+Matriz 6
+1  4  3  0  2  
+Matriz 7
+3  1  0  4  2  
+Matriz 8
+2  4  3  0  1  
+Matriz 9
+1  0  4  2  3  
+Matriz 10
+3  0  1  4  2  
+Matriz 11
+2  0  1  3  4  
+Matriz 12
+1  2  0  3  4  
+Matriz 13
+3  1  2  4  0  
+Matriz 14
+0  4  3  2  1  
+Matriz 15
+4  3  1  0  2  
+Matriz 16
+3  0  4  1  2  
+Generamos las matrices
+Matriz 1
+4  3  0  2  1  
+Matriz 2
+0  4  3  2  1  
+Matriz 3
+4  2  1  0  3  
+Matriz 4
+3  2  4  0  1  
+Matriz 5
+3  2  0  4  1  
+Matriz 6
+2  4  1  0  3  
+Matriz 7
+1  3  2  4  0  
+Matriz 8
+3  0  2  4  1  
+Matriz 9
+0  4  3  2  1  
+Matriz 10
+0  2  1  3  4  
+Matriz 11
+0  1  4  2  3  
+Matriz 12
+4  1  0  3  2  
+Matriz 13
+0  1  4  2  3  
+Matriz 14
+2  1  0  4  3  
+Matriz 15
+1  0  4  2  3  
+Matriz 16
+1  3  2  0  4  
+Generamos las matrices
+Matriz 1
+0  3  1  4  2  
+Matriz 2
+2  4  0  1  3  
+Matriz 3
+3  4  2  0  1  
+Matriz 4
+4  0  2  1  3  
+Matriz 5
+0  1  3  2  4  
+Matriz 6
+3  1  0  2  4  
+Matriz 7
+2  3  1  4  0  
+Matriz 8
+3  1  0  4  2  
+Matriz 9
+0  4  3  2  1  
+Matriz 10
+0  3  1  2  4  
+Matriz 11
+4  0  1  3  2  
+Matriz 12
+3  4  0  2  1  
+Matriz 13
+2  3  0  4  1  
+Matriz 14
+1  2  4  0  3  
+Matriz 15
+0  3  4  2  1  
+Matriz 16
+4  0  3  1  2  
+Generamos las matrices
+Matriz 1
+4  0  3  1  2  
+Matriz 2
+0  1  3  4  2  
+Matriz 3
+0  3  1  4  2  
+Matriz 4
+4  0  1  2  3  
+Matriz 5
+2  4  0  3  1  
+Matriz 6
+1  4  0  2  3  
+Matriz 7
+4  1  0  3  2  
+Matriz 8
+4  0  3  1  2  
+Matriz 9
+3  4  2  1  0  
+Matriz 10
+2  3  0  1  4  
+Matriz 11
+3  0  2  4  1  
+Matriz 12
+2  0  4  3  1  
+Matriz 13
+2  4  3  0  1  
+Matriz 14
+0  2  1  4  3  
+Matriz 15
+4  3  1  0  2  
+Matriz 16
+2  1  0  3  4  
+Generamos las matrices
+Matriz 1
+2  3  0  4  1  
+Matriz 2
+0  1  4  2  3  
+Matriz 3
+4  2  0  3  1  
+Matriz 4
+3  4  2  1  0  
+Matriz 5
+0  1  4  3  2  
+Matriz 6
+3  0  2  1  4  
+Matriz 7
+4  2  0  1  3  
+Matriz 8
+3  0  4  1  2  
+Matriz 9
+1  3  0  2  4  
+Matriz 10
+1  4  0  3  2  
+Matriz 11
+4  2  0  1  3  
+Matriz 12
+0  3  1  2  4  
+Matriz 13
+3  2  4  0  1  
+Matriz 14
+4  3  0  2  1  
+Matriz 15
+2  3  1  4  0  
+Matriz 16
+3  1  4  0  2  
+Generamos las matrices
+Matriz 1
+0  1  3  4  2  
+Matriz 2
+4  1  3  0  2  
+Matriz 3
+0  2  4  1  3  
+Matriz 4
+4  0  1  2  3  
+Matriz 5
+3  0  4  1  2  
+Matriz 6
+3  4  1  2  0  
+Matriz 7
+0  3  1  2  4  
+Matriz 8
+4  1  3  2  0  
+Matriz 9
+1  4  3  2  0  
+Matriz 10
+4  3  1  2  0  
+Matriz 11
+2  4  1  0  3  
+Matriz 12
+0  1  3  4  2  
+Matriz 13
+4  2  0  1  3  
+Matriz 14
+2  0  4  3  1  
+Matriz 15
+2  3  0  4  1  
+Matriz 16
+3  4  0  1  2  
+Generamos las matrices
+Matriz 1
+3  4  0  1  2  
+Matriz 2
+1  0  2  4  3  
+Matriz 3
+4  3  0  1  2  
+Matriz 4
+2  1  4  3  0  
+Matriz 5
+2  3  1  4  0  
+Matriz 6
+0  3  4  1  2  
+Matriz 7
+4  2  1  3  0  
+Matriz 8
+3  0  2  4  1  
+Matriz 9
+1  4  3  2  0  
+Matriz 10
+3  4  2  1  0  
+Matriz 11
+0  3  2  4  1  
+Matriz 12
+0  1  4  2  3  
+Matriz 13
+0  4  3  2  1  
+Matriz 14
+2  1  3  4  0  
+Matriz 15
+3  1  0  4  2  
+Matriz 16
+0  4  1  2  3  
+Generamos las matrices
+Matriz 1
+2  1  3  0  4  
+Matriz 2
+1  2  0  4  3  
+Matriz 3
+4  2  1  3  0  
+Matriz 4
+1  0  2  3  4  
+Matriz 5
+4  0  3  2  1  
+Matriz 6
+4  3  2  0  1  
+Matriz 7
+3  0  4  2  1  
+Matriz 8
+0  2  3  4  1  
+Matriz 9
+3  0  2  4  1  
+Matriz 10
+3  4  0  2  1  
+Matriz 11
+3  2  4  0  1  
+Matriz 12
+4  1  2  0  3  
+Matriz 13
+4  1  2  3  0  
+Matriz 14
+4  2  3  0  1  
+Matriz 15
+2  0  3  1  4  
+Matriz 16
+2  3  4  0  1  
+Generamos las matrices
+Matriz 1
+4  2  0  3  1  
+Matriz 2
+3  2  4  1  0  
+Matriz 3
+1  0  4  3  2  
+Matriz 4
+1  2  4  0  3  
+Matriz 5
+0  3  2  4  1  
+Matriz 6
+3  4  2  1  0  
+Matriz 7
+4  2  3  0  1  
+Matriz 8
+1  0  2  4  3  
+Matriz 9
+4  3  0  1  2  
+Matriz 10
+2  0  4  3  1  
+Matriz 11
+1  0  4  2  3  
+Matriz 12
+0  1  4  3  2  
+Matriz 13
+0  1  4  3  2  
+Matriz 14
+3  4  2  0  1  
+Matriz 15
+0  1  2  3  4  
+Matriz 16
+0  2  4  1  3  
+Generamos las matrices
+Matriz 1
+0  4  1  3  2  
+Matriz 2
+3  4  1  0  2  
+Matriz 3
+0  2  4  3  1  
+Matriz 4
+0  2  3  4  1  
+Matriz 5
+1  4  3  0  2  
+Matriz 6
+4  1  0  2  3  
+Matriz 7
+0  1  4  3  2  
+Matriz 8
+3  2  4  0  1  
+Matriz 9
+1  2  3  4  0  
+Matriz 10
+4  2  0  3  1  
+Matriz 11
+1  4  2  0  3  
+Matriz 12
+0  4  2  1  3  
+Matriz 13
+2  0  4  3  1  
+Matriz 14
+0  3  1  2  4  
+Matriz 15
+0  1  4  3  2  
+Matriz 16
+4  0  1  3  2  
+Generamos las matrices
+Matriz 1
+0  2  3  4  1  
+Matriz 2
+1  4  0  3  2  
+Matriz 3
+2  3  4  1  0  
+Matriz 4
+0  4  1  3  2  
+Matriz 5
+0  2  4  3  1  
+Matriz 6
+4  3  2  0  1  
+Matriz 7
+4  3  1  2  0  
+Matriz 8
+1  2  4  3  0  
+Matriz 9
+2  0  1  4  3  
+Matriz 10
+1  2  0  3  4  
+Matriz 11
+0  4  3  1  2  
+Matriz 12
+2  3  1  4  0  
+Matriz 13
+3  0  1  4  2  
+Matriz 14
+2  3  4  1  0  
+Matriz 15
+2  4  1  3  0  
+Matriz 16
+2  0  4  1  3  
+Generamos las matrices
+Matriz 1
+2  0  3  4  1  
+Matriz 2
+4  2  3  0  1  
+Matriz 3
+3  0  1  4  2  
+Matriz 4
+4  3  2  0  1  
+Matriz 5
+2  0  3  4  1  
+Matriz 6
+0  4  1  3  2  
+Matriz 7
+2  1  4  0  3  
+Matriz 8
+3  2  4  1  0  
+Matriz 9
+0  1  4  3  2  
+Matriz 10
+2  3  1  0  4  
+Matriz 11
+0  3  2  4  1  
+Matriz 12
+4  2  0  1  3  
+Matriz 13
+0  3  2  1  4  
+Matriz 14
+0  2  4  3  1  
+Matriz 15
+0  2  1  3  4  
+Matriz 16
+2  1  3  0  4  
