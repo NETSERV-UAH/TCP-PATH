@@ -1,24 +1,7 @@
-# OpenFlow 1.3 Software Switch
+# OpenFlow TCP-PATH Software Switch
 
-This is an [OpenFlow 1.3][ofp13] compatible user-space software switch implementation. The code is based on the [Ericsson TrafficLab 1.1 softswitch
-implementation][ericssonsw11], with changes in the forwarding plane to support
-OpenFlow 1.3. 
+This is an [OpenFlow 1.3][ofp13] compatible user-space software switch implementation. The code is based on the [Ericsson TrafficLab 1.1 softswitch implementation][ericssonsw11], with changes in the forwarding plane to support OpenFlow 1.3. 
 
-**Important notice:**  Despite the fact the switch is still popular for adventurers trying to implement own changes to OpenFlow, support  now is on a best-effort base. Currently, there are lots of complaints about performance degradation, broken features and installation problems. Although not confirmed, most of the problems seem to be due to most recent linux versions. As the main contributor of the switch, I would like to keep the project alive and fix all the recurrent issues. However, life moves and new projects come, resulting in no time to work on it. I am still happy to help anyone who comes asking for advice on how to make changes in the code, but I cannot guarantee quick and active replies.  
- *-Eder*
-
-The following components are available in this package:
-* `ofdatapath`: the switch implementation
-* `ofprotocol`: secure channel for connecting the switch to the controller
-* `oflib`: a library for converting to/from 1.3 wire format
-* `dpctl`: a tool for configuring the switch from the console
-
-# Getting Started
-
-These instructions have been tested on Ubuntu 12.04. Other distributions or versions may need different steps. 
-
-For Ubuntu 14.04, please check @castroflavio solution:
-[How to compile on Ubuntu 14.04][compileubuntu14]
 
 ## Before building
 The switch makes use of the NetBee library to parse packets, so we need to install it first.
@@ -122,43 +105,5 @@ The `dpctl` utility has some limitations at the moment:
 * Some set_field action fields are not present
 
 
-# Contribute
-Please submit your bug reports, fixes and suggestions as pull requests on
-GitHub, or by contacting us directly.
-
 # License
-OpenFlow 1.3 Software Switch is released under the BSD license (BSD-like for
-code from the original Stanford switch).
-
-# Acknowledgments
-
-This project was supported by Ericsson Innovation Center in Brazil.
-Formerly maintained by CPqD in technical collaboration with Ericsson Research.
-
-**Contributions:**
-
-Zoltán Lajos Kis, ofsoftswitch 1.1 implementation and guidance for OpenFlow spec related subjects.
-
-Jean Tourrilhes, lots of critical memory bug fixes on table features.
-
-Khai Nguyen Dinh and Thanh Le Dinh, contributions on meter features.
-
-Rich Lane, added the right compiler linker.
-
-yu-iwata, fixed flow deletion without matchin out_port.
-
-Yuval Adler, bug fixes related to matching on vlan and ethertype.
-
-Hiroyasu OHYAMA, correct URL of NetBee Library.
-
-... 
-
-*"Your name here" -- please, let us*
-*know if we forgot to add your name to the list of contributors!*
-
-# Contact
-E-mail: Eder Leao Fernandes (ederleaofernandes at gmail . com)
-
-[ofp13]: https://www.opennetworking.org/images/stories/downloads/specification/openflow-spec-v1.3.0.pdf
-[ericssonsw11]: https://github.com/TrafficLab/of11softswitch
-[compileubuntu14]: http://tocai.dia.uniroma3.it/compunet-wiki/index.php/Installing_and_setting_up_OpenFlow_tools
+Software Switch is released under the BSD license (BSD-like for code from the original Stanford switch).
